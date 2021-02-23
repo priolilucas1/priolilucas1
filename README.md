@@ -4,7 +4,7 @@
 different areas of programming languages, having greater interest in the area of Web and mobile development.</h4>
 
 - 🏢 I’m currently looking for internship
-- 🔭 I’m currently working on "Cardappio"
+- 🔭 I’m currently working on "MoveIt"
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate with Typescript/React/React-Native
 - 📫 How to reach me: priolilucas1@gmail.com
