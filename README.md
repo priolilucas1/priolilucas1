@@ -27,8 +27,9 @@ different areas of programming languages, having greater interest in the area of
 <span>
   <img src="https://img.shields.io/github/followers/priolilucas1?style=social" />
 </span> 
-
+<span>
   <a href="https://github.com/priolilucas1">
     <img src="https://github-readme-stats.vercel.app/api?username=priolilucas1&show_icons=true&hide_border=true" />
-  </a>
+  </a> 
+</span>
 
