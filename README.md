@@ -3,7 +3,7 @@
 <h4>I am 20 years old, a Computer Science student and I have as main objective to improve my knowledge in
 different areas of programming languages, having greater interest in the area of Web and mobile development.</h4>
 
-- 🏢 I’m currently looking for internship
+- 🏢 I’m Software Engineering Intern at Accenture and a Computer Sciense Student
 - 🔭 I’m currently working on "React+Redux- Udemy"
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate with Typescript/React/React-Native
