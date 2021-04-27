@@ -19,7 +19,6 @@ different areas of programming languages, having greater interest in the area of
 - ![Node](https://img.shields.io/badge/-Node-222222?style=flat&logo=node.js) 
 - ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
 - ![Css](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3)
-- ![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java)
 - ![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=sql)
 
 <h3> Github Stats </h3>
