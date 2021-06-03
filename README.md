@@ -4,9 +4,8 @@
 different areas of programming languages, having greater interest in the area of Web and mobile development.</h4>
 
 - 🏢 I’m Software Engineering Intern at Accenture and a Computer Sciense Student
-- 🔭 I’m currently working on "React+Redux- Udemy"
-- 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate with Typescript/React/React-Native
+- 🌱 I’m currently learning Flutter/Dart
+- 👯 I’m looking to collaborate with Typescript/React/Flutter
 - 📫 How to reach me: priolilucas1@gmail.com
 - 🔗 You can also find me on [Linkedin](https://www.linkedin.com/in/lucas-prioli/)
 
