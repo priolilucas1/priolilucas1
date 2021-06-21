@@ -12,12 +12,13 @@ different areas of programming languages, having greater interest in the area of
 <h2>📚 Skills:</h2>
 
 - ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
-- ![ReactNative](https://img.shields.io/badge/-ReactNative-222222?style=flat&logo=react)
+- ![Flutter](https://img.shields.io/badge/-Flutter-222222?style=flat&logo=flutter)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
 - ![Node](https://img.shields.io/badge/-Node-222222?style=flat&logo=node.js) 
 - ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
 - ![Css](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3)
+- ![ReactNative](https://img.shields.io/badge/-ReactNative-222222?style=flat&logo=react)
 - ![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=sql)
 
 <h3> Github Stats </h3>
