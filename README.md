@@ -5,7 +5,7 @@ different areas of programming languages, having greater interest in the area of
 
 - 🏢 I’m Software Engineering Intern at Accenture and a Computer Sciense Student
 - 🌱 I’m currently learning Flutter/Dart
-- 👯 I’m looking to collaborate with Typescript/React/Flutter
+- 👯 I’m looking to collaborate with React/Flutter/Node
 - 📫 How to reach me: priolilucas1@gmail.com
 - 🔗 You can also find me on [Linkedin](https://www.linkedin.com/in/lucas-prioli/)
 
