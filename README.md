@@ -1,5 +1,7 @@
 ![image](https://user-images.githubusercontent.com/56166862/105250290-42267b80-5b58-11eb-8b6f-96b0ebc96395.png)
 
+Mobile Developer | Passionate about Technology and Professional Growth
+
 🚀 I feel dedicated to challenges and continuous growth. Solid experience in Android and iOS projects, from concept to delivery. Skills: Dart, Flutter, React, Javascript, Typescript, Node, API integration and CMS.
 
 🎓 With a degree in computer science, I keep up to date with the latest trends in the development industry. I'm in constant pursuit of learning and evolution, always open to new technologies and methodologies.
