@@ -1,11 +1,14 @@
 ![image](https://user-images.githubusercontent.com/56166862/105250290-42267b80-5b58-11eb-8b6f-96b0ebc96395.png)
 
-<h4>I am 20 years old, a Computer Science student and I have as main objective to improve my knowledge in
-different areas of programming languages, having greater interest in the area of Web and mobile development.</h4>
+🚀 I feel dedicated to challenges and continuous growth. Solid experience in Android and iOS projects, from concept to delivery. Skills: Dart, Flutter, React, Javascript, Typescript, Node, API integration and CMS.
 
-- 🏢 I’m Software Engineering Intern at Accenture and a Computer Sciense Student
-- 🌱 I’m currently learning Flutter/Dart
-- 👯 I’m looking to collaborate with React/Flutter/Node
+🎓 With a degree in computer science, I keep up to date with the latest trends in the development industry. I'm in constant pursuit of learning and evolution, always open to new technologies and methodologies.
+
+💼 I'm looking for opportunities that will allow me to grow professionally, contribute to innovative projects and collaborate with talented teams, while maintaining a passion for innovation.
+
+- 🏢 I’m Application Developer Analyst at Accenture and Graduated in Computer Science
+- 🌱 I’m currently learning Strapi/Flutter
+- 👯 I’m looking to collaborate with Flutter/React/Node
 - 📫 How to reach me: priolilucas1@gmail.com
 - 🔗 You can also find me on [Linkedin](https://www.linkedin.com/in/lucas-prioli/)
 
