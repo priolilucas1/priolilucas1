@@ -6,7 +6,7 @@
 
 💼 I'm looking for opportunities that will allow me to grow professionally, contribute to innovative projects and collaborate with talented teams, while maintaining a passion for innovation.
 
-- 🏢 I’m Application Developer Analyst at Accenture and Graduated in Computer Science
+- 🏢 I’m an Application Developer Analyst at Accenture and Graduated in Computer Science
 - 🌱 I’m currently learning Strapi/Flutter
 - 👯 I’m looking to collaborate with Flutter/React/Node
 - 📫 How to reach me: priolilucas1@gmail.com
