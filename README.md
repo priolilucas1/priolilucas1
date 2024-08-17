@@ -19,7 +19,7 @@ Mobile Developer | Passionate about Technology and Professional Growth
 - ![Flutter](https://img.shields.io/badge/-Flutter-222222?style=flat&logo=flutter)
 - ![Dart](https://img.shields.io/badge/-dart-222222?style=flat&logo=dart)
 - ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
-- ![ReactNative](https://img.shields.io/badge/-ReactNative-222222?style=flat&logo=react)
+- ![React Native](https://img.shields.io/badge/-ReactNative-222222?style=flat&logo=react)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
 - ![Node](https://img.shields.io/badge/-Node-222222?style=flat&logo=node.js) 
