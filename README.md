@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/56166862/105250290-42267b80-5b58-11eb-8b6f-96b0ebc96395.png)
 
-Mobile Developer | Passionate about Technology and Professional Growth
+Software Engineer | Passionate about Technology and Professional Growth
 
 🚀 I'm dedicated to challenges and continuous growth. Solid experience in Android and iOS projects, from concept to delivery. Skills: Flutter, Dart, React, React Native, AWS, Javascript, Typescript, Git, Strapi and Back4App.
 
