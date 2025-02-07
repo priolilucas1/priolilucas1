@@ -2,7 +2,7 @@
 
 Software Engineer | Passionate about Technology and Professional Growth
 
-🚀 I'm dedicated to challenges and continuous growth. Solid experience in Android and iOS projects, from concept to delivery. Skills: Flutter, Dart, React, React Native, AWS, Javascript, Typescript, Git, Strapi and Back4App.
+🚀 I'm dedicated to challenges and continuous growth. Solid experience in Android and iOS projects, from concept to delivery. Skills: Flutter, Dart, Nest, React, AWS, Javascript, Typescript, SQL, Strapi, Git and Strapi.
 
 🎓 With a degree in computer science, I keep up to date with the latest trends in the development industry. I'm in constant pursuit of learning and evolution, always open to new technologies and methodologies.
 
@@ -10,7 +10,7 @@ Software Engineer | Passionate about Technology and Professional Growth
 
 - 🏢 I’m an Application Developer Analyst at Accenture and Graduated in Computer Science
 - 🌱 I’m currently learning AWS/Flutter
-- 👯 I’m looking to collaborate with Flutter/React/Node
+- 👯 I’m looking to collaborate with Flutter/React/Nest
 - 📫 How to reach me: priolilucas1@gmail.com
 - 🔗 You can also find me on [Linkedin](https://www.linkedin.com/in/lucas-prioli/)
 
@@ -19,10 +19,10 @@ Software Engineer | Passionate about Technology and Professional Growth
 - ![Flutter](https://img.shields.io/badge/-Flutter-222222?style=flat&logo=flutter)
 - ![Dart](https://img.shields.io/badge/-dart-222222?style=flat&logo=dart)
 - ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
-- ![React Native](https://img.shields.io/badge/-ReactNative-222222?style=flat&logo=react)
+- ![Nest](https://img.shields.io/badge/-Nest-222222?style=flat&logo=nest)
+- ![AWS](https://img.shields.io/badge/-Aws-222222?style=flat&logo=aws)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
-- ![Node](https://img.shields.io/badge/-Node-222222?style=flat&logo=node.js) 
 - ![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=sql)
 
 <h3> Github Stats </h3>
