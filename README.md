@@ -2,7 +2,7 @@
 
 Software Engineer | Passionate about Technology and Professional Growth
 
-🚀 I'm dedicated to challenges and continuous growth. Solid experience in Android and iOS projects, from concept to delivery. Skills: Flutter, Dart, Nest, React, AWS, Javascript, Typescript, SQL, Strapi, Git and Strapi.
+🚀 I'm dedicated to challenges and continuous growth. Solid experience in Android and iOS projects, from concept to delivery. Skills: Flutter, Dart, Nest, React, AWS, Javascript, Typescript, SQL, Strapi and Git.
 
 🎓 With a degree in computer science, I keep up to date with the latest trends in the development industry. I'm in constant pursuit of learning and evolution, always open to new technologies and methodologies.
 
