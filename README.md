@@ -8,7 +8,7 @@ Software Engineer | Passionate about Technology and Professional Growth
 
 💼 I'm looking for opportunities that will allow me to grow professionally, contribute to innovative projects and collaborate with talented teams, while maintaining a passion for innovation.
 
-- 🏢 I’m an Application Developer Analyst at Accenture and Graduated in Computer Science
+- 🏢 I’m an Mobile Developer at Loomi and Graduated in Computer Science
 - 🌱 I’m currently learning AWS/Flutter
 - 👯 I’m looking to collaborate with Flutter/React/Nest
 - 📫 How to reach me: priolilucas1@gmail.com
