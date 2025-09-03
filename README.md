@@ -6,7 +6,7 @@ Software Engineer | Passionate about Technology and Professional Growth
 
 💼 I'm looking for opportunities that will allow me to grow professionally, contribute to innovative projects and collaborate with talented teams, while maintaining a passion for innovation.
 
-- 🏢 I’m an Mobile Developer and Graduated in Computer Science
+- 🏢 I’m an Fullstack Developer and Graduated in Computer Science
 - 📫 How to reach me: priolilucas1@gmail.com
 - 🔗 You can also find me on [Linkedin](https://www.linkedin.com/in/lucas-prioli/)
 
